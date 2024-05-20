@@ -30,6 +30,9 @@ This command activate weather package.
 ```bash
 weather lmk
 ```
+**This command should return result like this.**
+![Alt text](/demo.png)
+
 
 ## Configuration
 
