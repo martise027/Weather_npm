@@ -1,5 +1,4 @@
 .env
 node_modules/
 weather-*.tgz
-api.png
-page.png
+
