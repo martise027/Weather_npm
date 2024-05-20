@@ -1,6 +1,6 @@
 const axios  = require("axios");
-const API_KEY = process.env.API_KEY;
-const API_URL = process.env.API_URL;
+const API_KEY = "94cb25c7ae3c4738863183005240505"
+const API_URL = "http://api.weatherapi.com/v1"
 
 
 async function getWeather(location){
